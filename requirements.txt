@@ -1,0 +1,23 @@
+flask
+flask-cors
+Flask-SocketIO
+gunicorn
+opencv-contrib-python-headless
+numpy
+Pillow
+gevent-websocket
+imutils
+scipy
+# dlib
+
+# Flask==1.1.2
+# Flask-SocketIO==4.3.1
+# python-engineio==3.13.2
+# python-socketio==4.6.0
+# Jinja2==2.11.2
+# MarkupSafe==1.1.1
+# Werkzeug==1.0.1
+# itsdangerous==1.1.0
+
+# gevent-websocket
+# web: gunicorn --worker-class geventwebsocket.gunicorn.workers.GeventWebSocketWorker app:app
